@@ -1,4 +1,4 @@
-# Build a database driven React App
+# Week 7 Assignment - Build a database driven React App
 Overview:
 - Putting together the React client code, Node.js server code and Postgres database to build a full stack React application.
 
